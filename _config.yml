@@ -1,6 +1,6 @@
 title: CrisBel
 description: Ana Tarifa
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-merlot
 remote_theme: pages-themes/merlot@v0.2.0
